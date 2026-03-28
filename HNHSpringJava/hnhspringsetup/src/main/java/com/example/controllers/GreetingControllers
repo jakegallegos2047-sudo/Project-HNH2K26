@@ -1,0 +1,21 @@
+import org.springframwork.web
+
+@RestController
+
+
+public class GreetingController
+{
+    @GetMapping("/hello")
+    public Sting sayHello()
+    {
+        return "Hello World!";
+    }
+
+    @GetMapping("/greeting")
+    public String makeGreeting(@RequestParam(name = "name") String name)
+    {
+        return "Hello " + name + "!";
+        
+       }
+    
+}
