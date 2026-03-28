@@ -1,1 +1,1 @@
-Test
+Capture The Flag Challanges from Hack New Haven 2026. Mainly focused on OSINT/Social Engineering Flags. Planned to loop around if I'm able to stay for the whole event to tackle the Binary, Encryption, Crypto, Hash, and various other flags open for points. 
